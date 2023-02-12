@@ -8,7 +8,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * 同步阻塞
+ * socket 同步阻塞
  * @author hll
  * @version 1.0
  * @date 2023/2/12 18:40
